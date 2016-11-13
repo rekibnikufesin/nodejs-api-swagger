@@ -1,0 +1,27 @@
+{
+  "name": "todo-api",
+  "version": "0.0.1",
+  "private": true,
+  "description": "New Swagger API Project",
+  "keywords": [],
+  "author": "",
+  "license": "",
+  "main": "app.js",
+  "dependencies": {
+    "axios": "^0.15.2",
+    "cors": "^2.8.1",
+    "elasticsearch": "^12.0.1",
+    "express": "^4.12.3",
+    "swagger-express-mw": "^0.1.0"
+  },
+  "devDependencies": {
+    "nodejs-dashboard": "^0.1.2",
+    "should": "^7.1.0",
+    "supertest": "^1.0.0"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodejs-dashboard node app.js",
+    "test": "swagger project test"
+  }
+}
