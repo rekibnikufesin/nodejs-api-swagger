@@ -1,0 +1,72 @@
+[{
+	"todo_id": 0,
+	"todo": "Finish egghead.io lessons",
+	"datecreated": "2016-08-10T12:19:37.334Z",
+	"author": "string",
+	"duedate": "2016-08-14T22:19:37.334Z",
+	"tags": ["egghead.io", "javascript"],
+	"completed": false
+}, {
+	"todo": "Git-r-done",
+	"datecreated": "2016-11-06T20:40:50.979Z",
+	"author": "Will E. Button",
+	"duedate": "2016-11-08T00:00:00.000Z",
+	"completed": false,
+	"todo_id": 5
+}, {
+	"todo": "asdf",
+	"datecreated": "2016-11-11T15:18:58.138Z",
+	"author": "asdf",
+	"duedate": "1212-12-12T00:00:00.000Z",
+	"completed": false,
+	"todo_id": 8
+}, {
+	"todo": "Finish this lesson",
+	"datecreated": "2016-11-11T15:19:06.760Z",
+	"author": "Will",
+	"duedate": "2016-11-12T00:00:00.000Z",
+	"completed": false,
+	"todo_id": 9
+}, {
+	"todo_id": 999,
+	"todo": "console test",
+	"author": "Will"
+}, {
+	"todo_id": 4,
+	"todo": "Why is the pool green?",
+	"datecreated": "2016-08-07T10:14:37.334Z",
+	"author": "Will Button",
+	"duedate": "2016-08-07T00:00:00.000Z",
+	"tags": ["needs chlorine", "not good at this", "hire a professional"],
+	"completed": true
+}, {
+	"todo_id": 2,
+	"todo": "Mow the lawn",
+	"datecreated": "2016-08-01T09:33:37.334Z",
+	"author": "Benjamin Button",
+	"duedate": "2199-12-31T23:59:59.000Z",
+	"tags": ["procrastination", "housework", "outsourcing"],
+	"completed": false
+}, {
+	"todo": "Add a todo",
+	"datecreated": "2016-11-11T13:34:55.135Z",
+	"author": "Will",
+	"duedate": "2016-12-25T00:00:00.000Z",
+	"completed": false,
+	"todo_id": 6
+}, {
+	"todo_id": 1,
+	"todo": "Write even less code",
+	"datecreated": "2016-11-08T08:00:00.000Z",
+	"author": "Will",
+	"duedate": "2016-11-08T08:00:00.000Z",
+	"tags": ["egghead.io", "javascript"],
+	"completed": false
+}, {
+	"todo": "Another thing to do",
+	"datecreated": "2016-11-11T13:39:57.530Z",
+	"author": "John",
+	"duedate": "2016-11-11T00:00:00.000Z",
+	"completed": false,
+	"todo_id": 7
+}]
